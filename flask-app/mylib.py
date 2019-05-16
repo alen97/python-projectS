@@ -1,5 +1,5 @@
 ###
-### Librería personal con métodos útiles 
+### Librería personal
 ###
 
 
